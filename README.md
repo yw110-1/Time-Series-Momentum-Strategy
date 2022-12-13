@@ -2,7 +2,7 @@
 This repository is designed for final project of STAT 649: Quantitative Financial Risk Management, Rice University. Our topic is Trading Strategy Research – Time Series Momentum. The repository includes final report and codes.
 
 ## Instructor
-Wentao Zhao, wz55@rice.edu
+Dr. Wentao Zhao, wz55@rice.edu
 
 ## Collaborators
 - Iris Wu, yw110@rice.edu
